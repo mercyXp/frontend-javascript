@@ -1,5 +1,5 @@
 import { RowID, RowElement } from './interface';
-import * as CRUD from './crud.js'; // Note the .js extension
+import * as CRUD from './crud'; 
 
 const row: RowElement = {
   firstName: 'Guillaume',
